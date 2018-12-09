@@ -1,0 +1,7 @@
+Keras
+numpy
+opencv-python
+requests
+tensorflow
+tensorflow_gpu
+tqdm
